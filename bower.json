@@ -1,0 +1,24 @@
+{
+    "name": "me.tomsen.autoheight",
+    "version": "0.0.0",
+    "description": "autoheight directive",
+    "main": ["autoheight.module.js", "autoheight.directive.js"],
+    "keywords": [
+        "tomsen.me",
+        "autoheight",
+        "angular"
+    ],
+    "authors": [
+        "Evgeny Tomsen"
+    ],
+    "license": "MIT",
+    "dependencies": {"angular": "~1.3.0"},
+    "overrides": {},
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
